@@ -277,7 +277,6 @@ body {
   #hero {
     width: 100%;
     height: 75vh;
-    /* background: url("../img/heena1.jpg") top center; */
     background: url("../img/heena2.jpg") top center;
     background-size: cover;
     padding: 0 15px;
